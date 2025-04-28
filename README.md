@@ -14,12 +14,12 @@ Saya suka membangun aplikasi web, database management, dan mengembangkan sistem 
 
 ---
 
-### 2. Sistem Manajemen Tugas (CI3)
-- **Deskripsi:** Aplikasi sederhana untuk membuat, mengedit, dan menghapus tugas.
+### 2. Website Pembelian Baju (CodeIgniter 3)
+- **Deskripsi:** Aplikasi Pembelian Baju online.
 - **Teknologi:** PHP, CodeIgniter 3, MySQL, Bootstrap.
-- **Fitur:** Login user, CRUD tugas, deadline reminder.
-- **Link Repository:** [Tautkan ke repo project ini]
-
+- **Fitur:** Registrasi user, login/logout, pemesanan, pembayaran online,.
+- **Link Repository:** https://github.com/YunandaVira/kojura
+  
 ---
 
 ## Tentang Saya
