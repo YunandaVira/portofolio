@@ -25,7 +25,7 @@ Saya suka membangun aplikasi web, database management, dan mengembangkan sistem 
 ## Tentang Saya
 - **Nama:** Yunada Vira Gayatri
 - **Email:** yunadvrg@email.com
-- **LinkedIn:**https://www.linkedin.com/in/yunadvrg
-- **GitHub:** [github.com/username]
+- **LinkedIn:** https://www.linkedin.com/in/yunadvrg
+- **GitHub:** [[github.com/username]](https://github.com/YunandaVira)
 
-Terima kasih sudah mampir ke portofolio saya! 🚀
+Terima kasih sudah mampir ke portofolio saya! 
