@@ -10,7 +10,7 @@ Saya suka membangun aplikasi web, database management, dan mengembangkan sistem 
 - **Deskripsi:** Aplikasi pemesanan tiket online untuk sebuah tempat wisata (cimory-dairyland).
 - **Teknologi:** PHP, CodeIgniter 3, MySQL, Bootstrap.
 - **Fitur:** Registrasi user, login/logout, pemesanan tiket, pembayaran online, panel admin.
-- **Link Repository:** [Tautkan ke repo project ini]
+- **Link Repository:** https://github.com/YunandaVira/cimory
 
 ---
 
